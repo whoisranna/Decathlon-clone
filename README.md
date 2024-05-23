@@ -1,2 +1,4 @@
 # Decathlon-clone
-Author= Gaurav Kumar 
+This is the clone project 
+<br>
+Author-Gaurav Kumar 
